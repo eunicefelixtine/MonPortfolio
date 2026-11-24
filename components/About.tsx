@@ -2,6 +2,7 @@
 
 import React from "react";
 import Reveal from "./Reveal";
+import Image from "next/image";
 
 const stats = [
   { value: "ENSPD", label: "École d'ingénieurs" },
@@ -72,6 +73,9 @@ export default function About() {
 
         <Reveal delay={150}>
           <div>
+            <div className="relative mb-6 rounded-xl overflow-hidden border border-slate-800">
+              <Image src="/tech-illustration.svg" alt="Illustration tech" width={400} height={300} className="w-full h-auto" />
+            </div>
             <h3 className="text-2xl font-bold text-white mb-4">Profil en bref</h3>
             <ul className="space-y-4 mb-8">
               {[
