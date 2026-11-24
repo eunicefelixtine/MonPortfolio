@@ -17,10 +17,16 @@ const timeline = [
     tags: ["Génie Logiciel", "Major de promotion"],
   },
   {
-    year: "2024",
-    title: "Orange Summer Challenge",
-    desc: "Projet de détection de deepfakes et de vérification des informations pour le ministère de la Communication.",
-    tags: ["IA", "Computer Vision", "Data"],
+    year: "2026",
+    title: "KAMA — Finance en langues locales",
+    desc: "Projet réalisé pour la compétition SAFINUM 2026 : gestion des finances dans les langues locales camerounaises.",
+    tags: ["Finance", "Langues locales", "SAFINUM 2026"],
+  },
+  {
+    year: "2026",
+    title: "Ms Geek Africa 2026 — Représentante du Cameroun",
+    desc: "Sélectionnée pour représenter le Cameroun au Rwanda avec le projet GREEN (agriculture intelligente).",
+    tags: ["Ms Geek Africa", "Rwanda", "GREEN"],
   },
   {
     year: "2024",

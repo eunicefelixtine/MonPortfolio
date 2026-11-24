@@ -42,7 +42,7 @@ export default function Contact() {
                 <div>
                   <div className="text-xs text-slate-500">Email</div>
                   <a href="mailto:eunice@example.com" className="hover:text-cyan-300">
-                    eunice@example.com
+                    eunicefelixtine709@gmail.com
                   </a>
                 </div>
               </div>
@@ -52,7 +52,7 @@ export default function Contact() {
                 </span>
                 <div>
                   <div className="text-xs text-slate-500">Localisation</div>
-                  <div>ENSPD — Cameroun</div>
+                  <div>Douala — Cameroun</div>
                 </div>
               </div>
               <div className="flex items-center gap-3">

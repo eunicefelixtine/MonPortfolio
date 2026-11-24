@@ -111,7 +111,7 @@ export default function Hero() {
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white mb-4 tracking-tight leading-[1.05]">
           Bonjour, je suis{" "}
-          <span className="shimmer-text">Eunice</span>
+          <span className="shimmer-text">Eunice Felixtine</span>
         </h1>
 
         <div className="text-xl md:text-3xl font-semibold text-slate-300 mb-6 h-10">

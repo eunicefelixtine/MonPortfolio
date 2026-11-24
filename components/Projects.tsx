@@ -24,7 +24,7 @@ const projects: Project[] = [
   },
   {
     title: "GREEN — Agriculture intelligente",
-    desc: "Solution d'agriculture intelligente basée sur l'IA pour petits et grands exploitants : diagnostic de maladies par photo, Green Bot (Gemini), robot autonome, détection d'insectes par ultrasons.",
+    desc: "Solution d'agriculture intelligente basée sur l'IA pour petits et grands exploitants : diagnostic de maladies par photo, Green Bot (Gemini), robot autonome, détection d'insectes par ultrasons. Projet présenté à Ms Geek Africa 2026 (représentation du Cameroun au Rwanda).",
     tech: ["IA", "Gemini API", "Computer Vision", "EfficientNet", "React", "IoT"],
     status: "Compétition",
     category: "IA / IoT",
@@ -63,11 +63,11 @@ const projects: Project[] = [
     gradient: "from-blue-500 to-cyan-600",
   },
   {
-    title: "Deepfake & vérification d'infos",
-    desc: "Projet Orange Summer Challenge pour le ministère de la Communication : détection de deepfakes et vérification des informations sur les réseaux sociaux.",
-    tech: ["IA", "Computer Vision", "Data Analysis"],
-    status: "Exploré",
-    category: "IA",
+    title: "KAMA — Gestion financière en langues locales",
+    desc: "Projet pour la compétition SAFINUM 2026 : gestion des finances dans les langues locales camerounaises.",
+    tech: ["Finance", "Langues locales", "Web"],
+    status: "Compétition",
+    category: "Full Stack",
     gradient: "from-fuchsia-500 to-purple-600",
   },
   {

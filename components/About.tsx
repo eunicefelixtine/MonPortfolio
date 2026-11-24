@@ -34,14 +34,14 @@ export default function About() {
                   E
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-white">Eunice</h3>
+                  <h3 className="text-xl font-bold text-white">NZEUTEM DOMMOE Eunice Felixtine</h3>
                   <p className="text-cyan-300 text-sm">Software Engineering | AI | DevOps &amp; Cloud</p>
                 </div>
               </div>
               <p className="text-slate-300 leading-relaxed mb-4">
-                Étudiante ingénieure en <strong className="text-white">Génie Logiciel à l&apos;ENSPD</strong>,
+                Étudiante ingénieure en <strong className="text-white">Génie Logiciel à l&apos;École Nationale Supérieure polytechnique de Douala</strong>,
                 je suis <strong className="text-cyan-300">major de ma promotion</strong>. Je combine
-                développement Full Stack, intelligence artificielle et infrastructures Cloud modernes.
+                développement Full Stack, passion pour l'Intelligence Artificielle et infrastructures Cloud modernes.
               </p>
               <p className="text-slate-300 leading-relaxed mb-4">
                 Mon parcours couvre la conception d&apos;applications web et mobiles, la conteneurisation
@@ -83,6 +83,7 @@ export default function About() {
                 "Expérience pratique en développement Full Stack (Next.js, React, TypeScript, Prisma).",
                 "Manipulation d'un cluster Kubernetes local (Minikube) avec plusieurs applications déployées.",
                 "Secrétaire Générale du Club GIT de l'ENSPD — coordination & rédaction.",
+                "Sélectionnée pour représenter le Cameroun au Rwanda — Ms Geek Africa 2026 (projet GREEN).",
                 "Intérêt marqué pour l'IA appliquée, le Cloud Computing et l'automatisation.",
               ].map((item, i) => (
                 <li key={i} className="flex gap-3 text-slate-300">

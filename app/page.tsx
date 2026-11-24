@@ -18,7 +18,7 @@ export default function Home() {
       <Experience />
       <Contact />
       <footer className="py-8 text-center text-slate-600 text-sm border-t border-slate-900/60">
-        © {new Date().getFullYear()} Eunice — Conçu avec Next.js, Tailwind CSS &amp; Docker.
+        © {new Date().getFullYear()} NZEUTEM DOMMOE Eunice Felixtine — Conçu avec Next.js, Tailwind CSS &amp; Docker.
       </footer>
     </main>
   );

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Eunice — Portfolio | Software Engineering, AI & DevOps",
+  title: "NZEUTEM DOMMOE Eunice Felixtine — Portfolio | Software Engineering, AI & DevOps",
   description:
-    "Portfolio de Eunice, étudiante ingénieure en Génie Logiciel (ENSPD), major de promotion. Full Stack, IA, DevOps & Cloud.",
+    "Portfolio de NZEUTEM DOMMOE Eunice Felixtine, étudiante ingénieure en Génie Logiciel (ENSPD), major de promotion. Full Stack, IA, DevOps & Cloud.",
 };
 
 export default function RootLayout({
